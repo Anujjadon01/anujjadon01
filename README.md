@@ -46,7 +46,7 @@ Dr. Bhimrao Ambedkar University, Agra
 
 * 📧 Email: [anujthakur745696953@gmail.com](mailto:anujthakur745696953@gmail.com)
 * 📱 Phone: +91 8979481586
-* 🔗 LinkedIn: [linkedin.com/in/sumitagra](https://linkedin.com/in/sumitagra)
+* 🔗 LinkedIn: [linkedin.com/in/anujjadon](linkedin.com/in/anujjadon)
 
 ---
 
