@@ -1,6 +1,5 @@
-# Sumit Kumar - Aspiring Full Stack Web Developer
 
-👋 Hi, I’m *Sumit Kumar*, an aspiring full stack web developer with a strong foundation in front-end and back-end technologies. I enjoy building responsive and interactive web applications, solving problems, and continuously learning new technologies.
+👋 Hi, I’m *Anuj Jadon*, an aspiring full stack web developer with a strong foundation in front-end and back-end technologies. I enjoy building responsive and interactive web applications, solving problems, and continuously learning new technologies.
 
 ---
 
@@ -45,8 +44,8 @@ Dr. Bhimrao Ambedkar University, Agra
 
 ## 📬 Contact Me
 
-* 📧 Email: [sumitkumar925878@gmail.com](mailto:sumitkumar925878@gmail.com)
-* 📱 Phone: +91 9258783130
+* 📧 Email: [anujthakur745696953@gmail.com](mailto:anujthakur745696953@gmail.com)
+* 📱 Phone: +91 8979481586
 * 🔗 LinkedIn: [linkedin.com/in/sumitagra](https://linkedin.com/in/sumitagra)
 
 ---
