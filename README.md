@@ -1,4 +1,4 @@
-
+Anuj Jadon - Aspiring Full Stack Web Developer
 👋 Hi, I’m *Anuj Jadon*, an aspiring full stack web developer with a strong foundation in front-end and back-end technologies. I enjoy building responsive and interactive web applications, solving problems, and continuously learning new technologies.
 
 ---
